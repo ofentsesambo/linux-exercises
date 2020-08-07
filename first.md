@@ -104,4 +104,8 @@ task 6
 
 task 7
 
-1)	
+1)	nano my_bio.md
+2) control x to close then control y to save
+3) mkdir my_file
+	mv my_bio.md my_file
+	
